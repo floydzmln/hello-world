@@ -1,2 +1,2 @@
 # hello-world
-following the tutorial like a normie
+Making changes 
